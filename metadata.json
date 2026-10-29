@@ -1,0 +1,6 @@
+{
+  "name": "RankCheck - SEO Audit",
+  "description": "Professional SEO audit marketing tool providing checklist reports, category health scores, and actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
